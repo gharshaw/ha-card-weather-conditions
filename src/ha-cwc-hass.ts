@@ -1,5 +1,5 @@
 export const cwcDefaultHassDayIcons: { [key: string]: string } = {
-  cloudy: "cloudy-day-3",
+  cloudy: "cloudy-original",
   exceptional: "severe-thunderstorm",
   fog: "fog",
   hail: "snow-and-sleet-mix",
